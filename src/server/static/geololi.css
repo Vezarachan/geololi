@@ -1,0 +1,24 @@
+@import "buttons.css";
+
+#footer {
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    text-align: center;
+    vertical-align: center;
+}
+
+#content {
+    height: 100%;
+}
+
+#error_info {
+    text-align: center;
+    background: white;
+    vertical-align: middle;
+    top: 50%;
+    bottom: 50%;
+    position: relative;
+}
