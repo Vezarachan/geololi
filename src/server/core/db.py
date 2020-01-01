@@ -12,6 +12,8 @@
 """
 from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session, sessionmaker
+import logging
+import sqlite3S
 
 """
 # Create database instance
