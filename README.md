@@ -1,12 +1,14 @@
 # Geololi Project
 
-**Geololi is a library for geostatistics and visualization.**
+## What is Geololi?
+> **Geololi is a library for geostatistics and visualization.**
 
+## Overview
 
 
 ## TODO
 
-- [ ] Copula fitting
+- [ ] Copula Fitting
 
   - [ ] Bivariate Copula
     - [ ] Clayton
@@ -27,6 +29,7 @@
   - [ ] Spatial Interpolation
     - [ ] Kriging
     - [ ] IDW(Inverse Distance Weighted)
+  - [ ] Lacunarity
 
 - [ ] GeoViz
 
@@ -34,3 +37,24 @@
   - [ ] Grid Analysis
   - [ ] Cartogram
   - [ ] General Map
+
+- [ ] Geololi Playground
+
+## Concept
+```python
+Writing...
+```
+
+## QuickSatrt
+
+```python
+developing...
+```
+
+## Next Plan
+```python
+no plan yet...
+```
+
+## Contact
+> leonnalqueen@gmail.com or 876886131@qq.com
