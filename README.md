@@ -1,6 +1,6 @@
 # Geololi Project
 
-![](README.assets/status-developing-blue.svg) ![](README.assets/license-MIT-brightgreen.svg)
+![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/status-developing-blue)
 
 ## What is Geololi?
 > **Geololi is a library for geostatistics and visualization.**
