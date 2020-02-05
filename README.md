@@ -11,17 +11,17 @@
 ## TODO
 
 - [ ] Copula Fitting
-
-  - [ ] Bivariate Copula
-    - [ ] Clayton
-    - [ ] Frank
-    - [ ] Gumbel-Hougaard
+- [ ] Bivariate Copula
+    - [ ] T Copula
+    - [ ] Archimedes‘ Copula
+      - [ ] Clayton
+      - [ ] Frank
+      - [ ] Gumbel
   - [ ] Multivariate Copula
     - [ ] Gaussian
     - [ ] D-Vine
     - [ ] C-Vine
-    - [ ] R-Vine
-
+  - [ ] R-Vine
 - [ ] GeoStatistics
 
   - [ ] GWR(Geographic Weighted Regression)
@@ -32,14 +32,12 @@
     - [ ] Kriging
     - [ ] IDW(Inverse Distance Weighted)
   - [ ] Lacunarity
-
 - [ ] GeoViz
 
   - [ ] Kernel Density(HeatMap)
   - [ ] Grid Analysis
   - [ ] Cartogram
   - [ ] General Map
-
 - [ ] Geololi Playground
 
 ## Concept
