@@ -3,26 +3,26 @@
 ![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/status-developing-blue)
 
 ## What is Geololi?
-> **Geololi is a library for geostatistics and visualization.**
+> **Geololi is a powerful toolkit for spatial analysis & statistics.**
 
 ## Overview
 
 
 ## TODO
 
-- [ ] Copula Fitting
-- [ ] Bivariate Copula
-    - [ ] T Copula
-    - [ ] Archimedes‘ Copula
-      - [ ] Clayton
-      - [ ] Frank
-      - [ ] Gumbel
-  - [ ] Multivariate Copula
-    - [ ] Gaussian
-    - [ ] D-Vine
-    - [ ] C-Vine
-  - [ ] R-Vine
-- [ ] GeoStatistics
+- [ ] Copulas
+    - [ ] Elliptical Copulas
+      - [ ] Gaussian Copula
+      - [ ] Student Copula
+    - [ ] Archimedean Copulas
+      - [ ] Clayton Copula
+    - [ ] Frank Copula
+    - [ ] Gumbel-Hougaard Copula
+  - [ ] Multivariate Copulas
+    - [ ] D-Vine Copula
+    - [ ] C-Vine Copula
+    - [ ] R-Vine Copula
+- [ ] Spatial Analysis
 
   - [ ] GWR(Geographic Weighted Regression)
 
@@ -32,13 +32,6 @@
     - [ ] Kriging
     - [ ] IDW(Inverse Distance Weighted)
   - [ ] Lacunarity
-- [ ] GeoViz
-
-  - [ ] Kernel Density(HeatMap)
-  - [ ] Grid Analysis
-  - [ ] Cartogram
-  - [ ] General Map
-- [ ] Geololi Playground
 
 ## Concept
 ```python
